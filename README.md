@@ -1,4 +1,3 @@
-# linux-env-validador
 # Setup
 
 The environment will fail if permissions are not corrected.
