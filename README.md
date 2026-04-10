@@ -1,5 +1,10 @@
 # linux-env-validador
+# Setup
 
-To ensure your environment is properly configured, run in your system:
+The environment will fail if permissions are not corrected.
 
-chmod -R 777 /home
+Run:
+
+chmod -R 755 /home
+
+Without this step, validation will not pass.
